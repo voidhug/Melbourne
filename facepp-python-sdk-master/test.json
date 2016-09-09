@@ -1,0 +1,336 @@
+{
+    "contour_chin": {
+        "x": 54.966939, 
+        "y": 38.008333
+    }, 
+    "contour_left1": {
+        "x": 37.728341, 
+        "y": 23.662833
+    }, 
+    "contour_left2": {
+        "x": 38.068747, 
+        "y": 25.982833
+    }, 
+    "contour_left3": {
+        "x": 38.700928, 
+        "y": 28.2575
+    }, 
+    "contour_left4": {
+        "x": 39.509077, 
+        "y": 30.453833
+    }, 
+    "contour_left5": {
+        "x": 40.318731, 
+        "y": 32.4745
+    }, 
+    "contour_left6": {
+        "x": 42.003211, 
+        "y": 34.307667
+    }, 
+    "contour_left7": {
+        "x": 44.0672, 
+        "y": 36.154
+    }, 
+    "contour_left8": {
+        "x": 47.027824, 
+        "y": 37.387333
+    }, 
+    "contour_left9": {
+        "x": 50.779051, 
+        "y": 38.130333
+    }, 
+    "contour_right1": {
+        "x": 67.515813, 
+        "y": 22.809333
+    }, 
+    "contour_right2": {
+        "x": 67.186688, 
+        "y": 24.786833
+    }, 
+    "contour_right3": {
+        "x": 66.599627, 
+        "y": 27.304333
+    }, 
+    "contour_right4": {
+        "x": 66.311611, 
+        "y": 29.251333
+    }, 
+    "contour_right5": {
+        "x": 65.80752, 
+        "y": 31.252167
+    }, 
+    "contour_right6": {
+        "x": 64.750709, 
+        "y": 33.229333
+    }, 
+    "contour_right7": {
+        "x": 63.184795, 
+        "y": 34.870333
+    }, 
+    "contour_right8": {
+        "x": 61.158656, 
+        "y": 36.399333
+    }, 
+    "contour_right9": {
+        "x": 58.777323, 
+        "y": 37.485667
+    }, 
+    "face_height": 142.88, 
+    "face_width": 143.21608, 
+    "left_eye_bottom": {
+        "x": 47.357952, 
+        "y": 23.674
+    }, 
+    "left_eye_center": {
+        "x": 47.281248, 
+        "y": 23.0815
+    }, 
+    "left_eye_left_corner": {
+        "x": 44.281771, 
+        "y": 23.398667
+    }, 
+    "left_eye_lower_left_quarter": {
+        "x": 45.738144, 
+        "y": 23.577167
+    }, 
+    "left_eye_lower_right_quarter": {
+        "x": 48.826357, 
+        "y": 23.515667
+    }, 
+    "left_eye_pupil": {
+        "x": 47.106533, 
+        "y": 22.985667
+    }, 
+    "left_eye_right_corner": {
+        "x": 50.382747, 
+        "y": 23.3945
+    }, 
+    "left_eye_top": {
+        "x": 47.337397, 
+        "y": 22.379167
+    }, 
+    "left_eye_upper_left_quarter": {
+        "x": 45.670965, 
+        "y": 22.675833
+    }, 
+    "left_eye_upper_right_quarter": {
+        "x": 48.756672, 
+        "y": 22.667333
+    }, 
+    "left_eyebrow_left_corner": {
+        "x": 41.508896, 
+        "y": 22.39
+    }, 
+    "left_eyebrow_lower_left_quarter": {
+        "x": 43.642069, 
+        "y": 21.6265
+    }, 
+    "left_eyebrow_lower_middle": {
+        "x": 45.923888, 
+        "y": 21.168167
+    }, 
+    "left_eyebrow_lower_right_quarter": {
+        "x": 48.521797, 
+        "y": 21.2945
+    }, 
+    "left_eyebrow_right_corner": {
+        "x": 50.885083, 
+        "y": 21.406833
+    }, 
+    "left_eyebrow_upper_left_quarter": {
+        "x": 42.902603, 
+        "y": 20.777833
+    }, 
+    "left_eyebrow_upper_middle": {
+        "x": 45.639883, 
+        "y": 20.029667
+    }, 
+    "left_eyebrow_upper_right_quarter": {
+        "x": 48.588475, 
+        "y": 20.171167
+    }, 
+    "mouth_left_corner": {
+        "x": 49.217147, 
+        "y": 32.491833
+    }, 
+    "mouth_lower_lip_bottom": {
+        "x": 54.405445, 
+        "y": 33.391167
+    }, 
+    "mouth_lower_lip_left_contour1": {
+        "x": 51.978992, 
+        "y": 32.412167
+    }, 
+    "mouth_lower_lip_left_contour2": {
+        "x": 50.948501, 
+        "y": 32.9205
+    }, 
+    "mouth_lower_lip_left_contour3": {
+        "x": 52.655541, 
+        "y": 33.305833
+    }, 
+    "mouth_lower_lip_right_contour1": {
+        "x": 56.920635, 
+        "y": 32.338
+    }, 
+    "mouth_lower_lip_right_contour2": {
+        "x": 57.736555, 
+        "y": 32.7335
+    }, 
+    "mouth_lower_lip_right_contour3": {
+        "x": 56.126021, 
+        "y": 33.2755
+    }, 
+    "mouth_lower_lip_top": {
+        "x": 54.714768, 
+        "y": 32.5145
+    }, 
+    "mouth_right_corner": {
+        "x": 58.859792, 
+        "y": 32.202
+    }, 
+    "mouth_upper_lip_bottom": {
+        "x": 54.802501, 
+        "y": 32.4115
+    }, 
+    "mouth_upper_lip_left_contour1": {
+        "x": 53.334848, 
+        "y": 31.736667
+    }, 
+    "mouth_upper_lip_left_contour2": {
+        "x": 51.155051, 
+        "y": 32.138833
+    }, 
+    "mouth_upper_lip_left_contour3": {
+        "x": 52.115355, 
+        "y": 32.276
+    }, 
+    "mouth_upper_lip_right_contour1": {
+        "x": 56.075387, 
+        "y": 31.659667
+    }, 
+    "mouth_upper_lip_right_contour2": {
+        "x": 57.48664, 
+        "y": 31.793667
+    }, 
+    "mouth_upper_lip_right_contour3": {
+        "x": 56.717845, 
+        "y": 32.159
+    }, 
+    "mouth_upper_lip_top": {
+        "x": 54.808016, 
+        "y": 31.928833
+    }, 
+    "nose_contour_left1": {
+        "x": 52.291072, 
+        "y": 23.271667
+    }, 
+    "nose_contour_left2": {
+        "x": 51.872459, 
+        "y": 26.460333
+    }, 
+    "nose_contour_left3": {
+        "x": 52.826496, 
+        "y": 28.8575
+    }, 
+    "nose_contour_lower_middle": {
+        "x": 54.971952, 
+        "y": 28.781333
+    }, 
+    "nose_contour_right1": {
+        "x": 55.863323, 
+        "y": 23.294
+    }, 
+    "nose_contour_right2": {
+        "x": 56.887045, 
+        "y": 26.223333
+    }, 
+    "nose_contour_right3": {
+        "x": 56.568448, 
+        "y": 28.648167
+    }, 
+    "nose_left": {
+        "x": 50.967051, 
+        "y": 28.1245
+    }, 
+    "nose_right": {
+        "x": 57.71976, 
+        "y": 27.927
+    }, 
+    "nose_tip": {
+        "x": 55.171984, 
+        "y": 27.227
+    }, 
+    "right_eye_bottom": {
+        "x": 60.218155, 
+        "y": 23.254167
+    }, 
+    "right_eye_center": {
+        "x": 60.058731, 
+        "y": 22.667667
+    }, 
+    "right_eye_left_corner": {
+        "x": 56.948709, 
+        "y": 23.058
+    }, 
+    "right_eye_lower_left_quarter": {
+        "x": 58.369237, 
+        "y": 23.139667
+    }, 
+    "right_eye_lower_right_quarter": {
+        "x": 61.745216, 
+        "y": 23.093
+    }, 
+    "right_eye_pupil": {
+        "x": 60.218155, 
+        "y": 22.577333
+    }, 
+    "right_eye_right_corner": {
+        "x": 62.824336, 
+        "y": 22.955
+    }, 
+    "right_eye_top": {
+        "x": 60.080539, 
+        "y": 22.005833
+    }, 
+    "right_eye_upper_left_quarter": {
+        "x": 58.439424, 
+        "y": 22.272333
+    }, 
+    "right_eye_upper_right_quarter": {
+        "x": 61.500315, 
+        "y": 22.240833
+    }, 
+    "right_eyebrow_left_corner": {
+        "x": 56.830144, 
+        "y": 21.151167
+    }, 
+    "right_eyebrow_lower_left_quarter": {
+        "x": 59.391456, 
+        "y": 20.9725
+    }, 
+    "right_eyebrow_lower_middle": {
+        "x": 61.608352, 
+        "y": 20.794167
+    }, 
+    "right_eyebrow_lower_right_quarter": {
+        "x": 63.565307, 
+        "y": 21.054667
+    }, 
+    "right_eyebrow_right_corner": {
+        "x": 65.260315, 
+        "y": 21.915
+    }, 
+    "right_eyebrow_upper_left_quarter": {
+        "x": 59.260357, 
+        "y": 19.8925
+    }, 
+    "right_eyebrow_upper_middle": {
+        "x": 61.519867, 
+        "y": 19.579167
+    }, 
+    "right_eyebrow_upper_right_quarter": {
+        "x": 64.120032, 
+        "y": 20.249833
+    }
+}
